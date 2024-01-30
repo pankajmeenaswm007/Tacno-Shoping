@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: antiquewhite;
+}
+
+
+
+.min:hover{
+    transform: scale(1.1);
+    transition: 1s;
+    background: none;
+}
+
+
+.form-control1 {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    height: 40px;
+}
+
+.form-control2 {
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    height: 40px;
+    background-color: #0ebd0e;
+}
+
+
+.subscribe {
+    background-color: #0ebd0e;
+    border: #0ebd0e;
+    color: white;
+}
+
+
+.bgend,
+.wow {
+    background-color: #485664;
+    color: white;
+}
+
+
+.icon {
+    color: white;
+
+
+}
+
+.icon:hover {
+    color:blue;
+}
+
+
+.mybutton {
+    background-color: #0ebd0e;
+    border-radius: 0px !important;
+}
+
+.mybutton:hover {
+    background-color: #36db36;
+}
+
+
+
